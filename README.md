@@ -4,7 +4,7 @@ This repository contains implementations of the **Perceptron Learning Algorithm 
 
 ## Overview
 
-The handwritten digit dataset used in this project is from the **US Postal Service Zip Code** dataset, where each image is represented as a 16x16 pixel grayscale image. The first task is to implement binary classification between two digits. The final number of your UD ID is one of the digits, and the other is chosen conveniently for replicating the results in the slides.
+The handwritten digit dataset used in this project is from the **US Postal Service Zip Code** dataset, where each image is represented as a 16x16 pixel grayscale image. The first task is to implement binary classification between two digits.
 
 ### Main Tasks:
 1. **Feature Extraction**: 
